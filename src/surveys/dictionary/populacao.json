@@ -1,0 +1,1889 @@
+{
+  "survey": "populacao",
+  "source": "Nexus - Sesc - População - Reputação e Imagem - CODEBOOK.xlsx",
+  "generatedAt": "2026-09-29T19:25:10.556Z",
+  "variables": {
+    "SbjNum": {
+      "position": 1,
+      "label": "SbjNum",
+      "rawLabel": "SbjNum",
+      "values": {}
+    },
+    "PF1": {
+      "position": 2,
+      "label": "Sexo",
+      "rawLabel": "Sexo:",
+      "values": {
+        "1": "Feminino",
+        "2": "Masculino"
+      }
+    },
+    "Idade": {
+      "position": 3,
+      "label": "Idade",
+      "rawLabel": "Idade",
+      "values": {}
+    },
+    "Filhos": {
+      "position": 4,
+      "label": "Filhos",
+      "rawLabel": "Filhos",
+      "values": {}
+    },
+    "PEA": {
+      "position": 5,
+      "label": "PEA",
+      "rawLabel": "PEA",
+      "values": {
+        "1": "PEA",
+        "2": "Não PEA"
+      }
+    },
+    "Região": {
+      "position": 6,
+      "label": "Região",
+      "rawLabel": "Região",
+      "values": {}
+    },
+    "P1": {
+      "position": 8,
+      "label": "Vamos começar a pesquisa... Quando o(a) senhor(a) pensa em instituições de referência que oferecem serviços de educação, saúde, cultura, lazer e assistência social voltados ao bem-estar do trabalhador e da população no Brasil, qual é a primeir",
+      "rawLabel": "Vamos começar a pesquisa... Quando o(a) senhor(a) pensa em instituições de referência que oferecem serviços de educação, saúde, cultura, lazer e assistência social voltados ao bem-estar do trabalhador e da população no Brasil, qual é a primeir",
+      "values": {}
+    },
+    "T_P2_1": {
+      "position": 9,
+      "label": "SESC (Serviço Social do Comércio)",
+      "rawLabel": "SESC (Serviço Social do Comércio)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P2_2": {
+      "position": 10,
+      "label": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "rawLabel": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P2_3": {
+      "position": 11,
+      "label": "SESI (Serviço Social da Indústria)",
+      "rawLabel": "SESI (Serviço Social da Indústria)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P2_4": {
+      "position": 12,
+      "label": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "rawLabel": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P2_5": {
+      "position": 13,
+      "label": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "rawLabel": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P2_6": {
+      "position": 14,
+      "label": "SEST (Serviço Social do Transporte)",
+      "rawLabel": "SEST (Serviço Social do Transporte)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P2_7": {
+      "position": 15,
+      "label": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "rawLabel": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P3_1": {
+      "position": 16,
+      "label": "SESC (Serviço Social do Comércio)",
+      "rawLabel": "SESC (Serviço Social do Comércio)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P3_2": {
+      "position": 17,
+      "label": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "rawLabel": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P3_3": {
+      "position": 18,
+      "label": "SESI (Serviço Social da Indústria)",
+      "rawLabel": "SESI (Serviço Social da Indústria)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P3_4": {
+      "position": 19,
+      "label": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "rawLabel": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P3_5": {
+      "position": 20,
+      "label": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "rawLabel": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P3_6": {
+      "position": 21,
+      "label": "SEST (Serviço Social do Transporte)",
+      "rawLabel": "SEST (Serviço Social do Transporte)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P3_7": {
+      "position": 22,
+      "label": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "rawLabel": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "T_P4_1": {
+      "position": 23,
+      "label": "SESC (Serviço Social do Comércio)",
+      "rawLabel": "SESC (Serviço Social do Comércio)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "T_P4_2": {
+      "position": 24,
+      "label": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "rawLabel": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "T_P4_3": {
+      "position": 25,
+      "label": "SESI (Serviço Social da Indústria)",
+      "rawLabel": "SESI (Serviço Social da Indústria)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "T_P4_4": {
+      "position": 26,
+      "label": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "rawLabel": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "T_P4_5": {
+      "position": 27,
+      "label": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "rawLabel": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "T_P4_6": {
+      "position": 28,
+      "label": "SEST (Serviço Social do Transporte)",
+      "rawLabel": "SEST (Serviço Social do Transporte)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "T_P4_7": {
+      "position": 29,
+      "label": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "rawLabel": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "P5": {
+      "position": 30,
+      "label": "Agora, para conhecermos melhor o seu perfil e sua relação com algumas instituições, gostaria de fazer algumas perguntas. Atualmente, o(a) senhor(a) trabalha em alguma empresa do setor de comércio, prestação de serviços ou turismo?",
+      "rawLabel": "Agora, para conhecermos melhor o seu perfil e sua relação com algumas instituições, gostaria de fazer algumas perguntas. Atualmente, o(a) senhor(a) trabalha em alguma empresa do setor de comércio, prestação de serviços ou turismo?",
+      "values": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "NS/NR"
+      }
+    },
+    "P6": {
+      "position": 31,
+      "label": "Apenas para fins de controle, o(a) senhor(a) ou alguém que more na sua casa trabalha no SESC?",
+      "rawLabel": "Apenas para fins de controle, o(a) senhor(a) ou alguém que more na sua casa trabalha no SESC?",
+      "values": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "NS/NR"
+      }
+    },
+    "P7": {
+      "position": 32,
+      "label": "Sobre o seu relacionamento com o SESC, o(a) senhor(a) diria que...",
+      "rawLabel": "Sobre o seu relacionamento com o SESC, o(a) senhor(a) diria que...",
+      "values": {
+        "1": "Frequenta as unidades ou utiliza os serviços atualmente",
+        "2": "Já frequentou ou utilizou, mas não utiliza mais",
+        "3": "Nunca frequentou ou utilizou o Sesc"
+      }
+    },
+    "P8": {
+      "position": 33,
+      "label": "E qual o principal motivo para o(a) senhor(a) não utilizar mais o SESC atualmente?",
+      "rawLabel": "E qual o principal motivo para o(a) senhor(a) não utilizar mais o SESC atualmente? (NÃO LER AS ALTERNATRIVAS)",
+      "values": {
+        "1": "Falta de tempo (Trabalho, estudos, rotina corrida)",
+        "2": "Mudança de endereço / Distância (Mudou de bairro/cidade ou a unidade ficou \"fora de mão\")",
+        "3": "Preço / Questões financeiras (Mensalidade, taxas de atividades ou perda de renda)",
+        "4": "Perda do vínculo/Credencial (Saiu da empresa do comércio ou a carteirinha venceu)",
+        "5": "Qualidade do serviço / Atendimento (Instalações ruins, mau atendimento ou atividades desinteressantes)",
+        "6": "Dificuldade de agendamento/vagas (Falta de vagas em cursos, academia ou dificuldade em usar o site/app)",
+        "7": "Saúde / Idade (Limitações físicas, doença ou idade avançada)",
+        "8": "Outros motivos",
+        "9": "NS/NR"
+      }
+    },
+    "P9": {
+      "position": 34,
+      "label": "E nos últimos 12 meses, o(a) senhor(a) frequentou o Sesc ou utilizou algum de seus serviços?",
+      "rawLabel": "E nos últimos 12 meses, o(a) senhor(a) frequentou o Sesc ou utilizou algum de seus serviços?",
+      "values": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "NS/NR"
+      }
+    },
+    "P10": {
+      "position": 35,
+      "label": "Com que frequência o(a) senhor(a) costuma/costumava utilizar os serviços ou frequentar as unidades do SESC?",
+      "rawLabel": "Com que frequência o(a) senhor(a) costuma/costumava utilizar os serviços ou frequentar as unidades do SESC?",
+      "values": {
+        "1": "Diariamente ou quase todos os dias (4 a 7 dias por semana)",
+        "2": "Mais de uma vez por semana (2 a 3 dias por semana)",
+        "3": "Semanalmente (1 vez por semana)",
+        "4": "Quinzenalmente (2 vezes por mês)",
+        "5": "Mensalmente (1 vez por mês)",
+        "6": "Raramente (Algumas vezes por ano / Em eventos específicos)",
+        "7": "NS/NR"
+      }
+    },
+    "PERFIL_USO": {
+      "position": 36,
+      "label": "PERFIL_USO",
+      "rawLabel": "PERFIL_USO",
+      "values": {}
+    },
+    "P11": {
+      "position": 37,
+      "label": "Atualmente, o(a) senhor(a) possui a credencial Sesc (também conhecida como carteira ou carteirinha do SESC)?",
+      "rawLabel": "Atualmente, o(a) senhor(a) possui a credencial Sesc (também conhecida como carteira ou carteirinha do SESC)?",
+      "values": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "NS/NR"
+      }
+    },
+    "P12": {
+      "position": 38,
+      "label": "Qual o tipo da sua credencial?",
+      "rawLabel": "Qual o tipo da sua credencial?",
+      "values": {
+        "1": "Trabalhador do comércio e dependentes",
+        "2": "Conveniados e dependentes",
+        "3": "Público em geral",
+        "4": "NS/NR"
+      }
+    },
+    "P13": {
+      "position": 39,
+      "label": "Qual o principal motivo para o(a) senhor(a) não utilizar os serviços do Sesc hoje?",
+      "rawLabel": "Qual o principal motivo para o(a) senhor(a) não utilizar os serviços do Sesc hoje?",
+      "values": {
+        "1": "Falta de tempo / Horário das unidades",
+        "2": "Distância / Não tem unidade perto de casa ou do trabalho",
+        "3": "Acha que é apenas para quem tem carteira assinada no comércio",
+        "4": "Não conhece os serviços que são oferecidos",
+        "5": "Preços caros",
+        "6": "Burocracia para fazer a credencial",
+        "7": "Prefere outras opções de lazer/serviços",
+        "8": "Outros",
+        "9": "NS/NR"
+      }
+    },
+    "P14": {
+      "position": 40,
+      "label": "Agora vamos falar sobre o SESC... Quando eu falo no SESC, Serviço Social do Comércio, qual é a primeira palavra ou imagem que lhe vem à mente?",
+      "rawLabel": "Agora vamos falar sobre o SESC... Quando eu falo no SESC, Serviço Social do Comércio, qual é a primeira palavra ou imagem que lhe vem à mente? (NÃO LER AS ALTERNATRIVAS)",
+      "values": {
+        "1": "Escolas",
+        "2": "Cursos e atividades educativas",
+        "3": "Saúde (Exames, médico)",
+        "4": "Esporte (Academia, ginástica, esportes, futebol, vôlei)",
+        "5": "Alimentação (Comida, almoço, restaurante, lanchonetes)",
+        "6": "Cultura (Teatro, show, cinema, música, exposição, livros)",
+        "7": "Social / Assistencial (Ajuda, povo, trabalhador, comércio, assistência)",
+        "8": "Espaços de lazer / clubes",
+        "9": "Hotéis e viagens",
+        "10": "Outros",
+        "11": "Nenhuma",
+        "12": "NS/NR",
+        "13": "Mesa Brasil",
+        "14": "Qualidade / Confiança",
+        "15": "Custo-benefício (Coisa boa, barato)",
+        "16": "Promoção de bem-estar e qualidade de vida",
+        "17": "Odontologia (Dentista)",
+        "18": "Bibliotecas",
+        "19": "Atividades esportivas e academias",
+        "20": "Terceira Idade (Grupos de idosos, atividades para terceira idade)"
+      }
+    },
+    "P15_O1": {
+      "position": 41,
+      "label": "Quando o(a) senhor(a) pensa no SESC, quais as principais atividades e serviços que vêm a sua mente? Mais algum?",
+      "rawLabel": "Quando o(a) senhor(a) pensa no SESC, quais as principais atividades e serviços que vêm a sua mente? Mais algum? (NÃO LER AS ALTERNATRIVAS)",
+      "values": {
+        "1": "Escolas",
+        "2": "Cursos e atividades educativas",
+        "3": "Saúde (Exames, médico)",
+        "4": "Odontologia (Dentista)",
+        "5": "Alimentação (Comida, almoço, restaurante, lanchonetes)",
+        "6": "Cultura (Teatro, show, cinema, música, exposição, livros)",
+        "7": "Bibliotecas",
+        "8": "Espaços de lazer / clubes",
+        "9": "Hotéis e viagens",
+        "10": "Atividades esportivas e academias",
+        "11": "Esporte (Academia, ginástica, esportes, futebol, vôlei)",
+        "12": "Social / Assistencial (Ajuda, povo, trabalhador, comércio, assistência)",
+        "13": "Mesa Brasil",
+        "14": "Promoção de bem-estar e qualidade de vida",
+        "15": "Terceira Idade (Grupos de idosos, atividades para terceira idade)",
+        "16": "Outros",
+        "17": "Nenhuma",
+        "18": "NS/NR"
+      }
+    },
+    "P15_O2": {
+      "position": 42,
+      "label": "Quando o(a) senhor(a) pensa no SESC, quais as principais atividades e serviços que vêm a sua mente? Mais algum?",
+      "rawLabel": "Quando o(a) senhor(a) pensa no SESC, quais as principais atividades e serviços que vêm a sua mente? Mais algum? (NÃO LER AS ALTERNATRIVAS)",
+      "values": {
+        "1": "Escolas",
+        "2": "Cursos e atividades educativas",
+        "3": "Saúde (Exames, médico)",
+        "4": "Odontologia (Dentista)",
+        "5": "Alimentação (Comida, almoço, restaurante, lanchonetes)",
+        "6": "Cultura (Teatro, show, cinema, música, exposição, livros)",
+        "7": "Bibliotecas",
+        "8": "Espaços de lazer / clubes",
+        "9": "Hotéis e viagens",
+        "10": "Atividades esportivas e academias",
+        "11": "Esporte (Academia, ginástica, esportes, futebol, vôlei)",
+        "12": "Social / Assistencial (Ajuda, povo, trabalhador, comércio, assistência)",
+        "13": "Mesa Brasil",
+        "14": "Promoção de bem-estar e qualidade de vida",
+        "15": "Terceira Idade (Grupos de idosos, atividades para terceira idade)",
+        "16": "Outros",
+        "17": "Nenhuma",
+        "18": "NS/NR"
+      }
+    },
+    "P16": {
+      "position": 43,
+      "label": "Baseado em seus conhecimentos e no que ouviu falar sobre o SESC, qual das alternativas abaixo mais se aproxima da percepção que possui da entidade? O(a) senhor(a) diria que ela é positiva ou negativa? Muito ou um pouco?",
+      "rawLabel": "Baseado em seus conhecimentos e no que ouviu falar sobre o SESC, qual das alternativas abaixo mais se aproxima da percepção que possui da entidade? O(a) senhor(a) diria que ela é positiva ou negativa? Muito ou um pouco?",
+      "values": {
+        "1": "Muito positiva",
+        "2": "Um pouco positiva",
+        "3": "Nem positiva, nem negativa",
+        "4": "Um pouco negativa",
+        "5": "Muito negativa",
+        "6": "NS/NR"
+      }
+    },
+    "T_P18_1": {
+      "position": 44,
+      "label": "A sociedade brasileira como um todo",
+      "rawLabel": "A sociedade brasileira como um todo",
+      "values": {
+        "1": "Muito importante",
+        "2": "Importante",
+        "3": "Mais ou menos importante",
+        "4": "Pouco importante",
+        "5": "Nada importante",
+        "6": "NS/NR"
+      }
+    },
+    "T_P18_2": {
+      "position": 45,
+      "label": "O desenvolvimento do seu estado",
+      "rawLabel": "O desenvolvimento do seu estado",
+      "values": {
+        "1": "Muito importante",
+        "2": "Importante",
+        "3": "Mais ou menos importante",
+        "4": "Pouco importante",
+        "5": "Nada importante",
+        "6": "NS/NR"
+      }
+    },
+    "T_P18_3": {
+      "position": 46,
+      "label": "O(A) senhor(a) e sua família",
+      "rawLabel": "O(A) senhor(a) e sua família",
+      "values": {
+        "1": "Muito importante",
+        "2": "Importante",
+        "3": "Mais ou menos importante",
+        "4": "Pouco importante",
+        "5": "Nada importante",
+        "6": "NS/NR"
+      }
+    },
+    "P19": {
+      "position": 47,
+      "label": "De um modo geral, sobre os serviços oferecidos pelo SESC, o(a) senhor(a) se considera muito informado(a), informado(a), mais ou menos informado(a), pouco informado(a) ou nada informado(a)?",
+      "rawLabel": "De um modo geral, sobre os serviços oferecidos pelo SESC, o(a) senhor(a) se considera muito informado(a), informado(a), mais ou menos informado(a), pouco informado(a) ou nada informado(a)?",
+      "values": {
+        "1": "Muito informado(a)",
+        "2": "Informado(a)",
+        "3": "Mais ou menos informado(a)",
+        "4": "Pouco informado(a)",
+        "5": "Nada informado(a)",
+        "6": "NS/NR"
+      }
+    },
+    "P20_1": {
+      "position": 48,
+      "label": "Escolas",
+      "rawLabel": "Escolas",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_2": {
+      "position": 49,
+      "label": "Cursos e atividades educativas",
+      "rawLabel": "Cursos e atividades educativas",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_3": {
+      "position": 50,
+      "label": "Serviços de atenção à saúde",
+      "rawLabel": "Serviços de atenção à saúde",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_4": {
+      "position": 51,
+      "label": "Restaurantes e lanchonetes",
+      "rawLabel": "Restaurantes e lanchonetes",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_5": {
+      "position": 52,
+      "label": "Odontologia",
+      "rawLabel": "Odontologia",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_6": {
+      "position": 53,
+      "label": "Programação cultural",
+      "rawLabel": "Programação cultural",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_7": {
+      "position": 54,
+      "label": "Bibliotecas",
+      "rawLabel": "Bibliotecas",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_8": {
+      "position": 55,
+      "label": "Espaços de lazer / clubes",
+      "rawLabel": "Espaços de lazer / clubes",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_9": {
+      "position": 56,
+      "label": "Hotéis e viagens",
+      "rawLabel": "Hotéis e viagens",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_10": {
+      "position": 57,
+      "label": "Atividades esportivas e academias",
+      "rawLabel": "Atividades esportivas e academias",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_11": {
+      "position": 58,
+      "label": "Assistência aos menos favorecidos",
+      "rawLabel": "Assistência aos menos favorecidos",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_12": {
+      "position": 59,
+      "label": "Combate à fome e ao desperdício de alimentos",
+      "rawLabel": "Combate à fome e ao desperdício de alimentos",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_13": {
+      "position": 60,
+      "label": "Trabalho social com pessoas idosas",
+      "rawLabel": "Trabalho social com pessoas idosas",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P20_14": {
+      "position": 61,
+      "label": "Promoção de bem-estar e qualidade de vida dos trabalhadores",
+      "rawLabel": "Promoção de bem-estar e qualidade de vida dos trabalhadores",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P21_1": {
+      "position": 62,
+      "label": "Escolas",
+      "rawLabel": "Escolas",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_2": {
+      "position": 63,
+      "label": "Cursos e atividades educativas",
+      "rawLabel": "Cursos e atividades educativas",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_3": {
+      "position": 64,
+      "label": "Serviços de atenção à saúde",
+      "rawLabel": "Serviços de atenção à saúde",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_4": {
+      "position": 65,
+      "label": "Restaurantes e lanchonetes",
+      "rawLabel": "Restaurantes e lanchonetes",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_5": {
+      "position": 66,
+      "label": "Odontologia",
+      "rawLabel": "Odontologia",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_6": {
+      "position": 67,
+      "label": "Programação cultural",
+      "rawLabel": "Programação cultural",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_7": {
+      "position": 68,
+      "label": "Bibliotecas",
+      "rawLabel": "Bibliotecas",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_8": {
+      "position": 69,
+      "label": "Espaços de lazer / clubes",
+      "rawLabel": "Espaços de lazer / clubes",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_9": {
+      "position": 70,
+      "label": "Hotéis e viagens",
+      "rawLabel": "Hotéis e viagens",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_10": {
+      "position": 71,
+      "label": "Atividades esportivas e academias",
+      "rawLabel": "Atividades esportivas e academias",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_11": {
+      "position": 72,
+      "label": "Assistência aos menos favorecidos",
+      "rawLabel": "Assistência aos menos favorecidos",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_12": {
+      "position": 73,
+      "label": "Combate à fome e ao desperdício de alimentos",
+      "rawLabel": "Combate à fome e ao desperdício de alimentos",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_13": {
+      "position": 74,
+      "label": "Trabalho social com pessoas idosas",
+      "rawLabel": "Trabalho social com pessoas idosas",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P21_14": {
+      "position": 75,
+      "label": "Promoção de bem-estar e qualidade de vida dos trabalhadores",
+      "rawLabel": "Promoção de bem-estar e qualidade de vida dos trabalhadores",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "T_P22_1": {
+      "position": 76,
+      "label": "Escolas",
+      "rawLabel": "Escolas",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_2": {
+      "position": 77,
+      "label": "Cursos e atividades educativas",
+      "rawLabel": "Cursos e atividades educativas",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_3": {
+      "position": 78,
+      "label": "Serviços de atenção à saúde",
+      "rawLabel": "Serviços de atenção à saúde",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_4": {
+      "position": 79,
+      "label": "Restaurantes e lanchonetes",
+      "rawLabel": "Restaurantes e lanchonetes",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_5": {
+      "position": 80,
+      "label": "Odontologia",
+      "rawLabel": "Odontologia",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_6": {
+      "position": 81,
+      "label": "Programação cultural",
+      "rawLabel": "Programação cultural",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_7": {
+      "position": 82,
+      "label": "Bibliotecas",
+      "rawLabel": "Bibliotecas",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_8": {
+      "position": 83,
+      "label": "Espaços de lazer / clubes",
+      "rawLabel": "Espaços de lazer / clubes",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_9": {
+      "position": 84,
+      "label": "Hotéis e viagens",
+      "rawLabel": "Hotéis e viagens",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_10": {
+      "position": 85,
+      "label": "Atividades esportivas e academias",
+      "rawLabel": "Atividades esportivas e academias",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_11": {
+      "position": 86,
+      "label": "Assistência aos menos favorecidos",
+      "rawLabel": "Assistência aos menos favorecidos",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_12": {
+      "position": 87,
+      "label": "Combate à fome e ao desperdício de alimentos",
+      "rawLabel": "Combate à fome e ao desperdício de alimentos",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_13": {
+      "position": 88,
+      "label": "Trabalho social com pessoas idosas",
+      "rawLabel": "Trabalho social com pessoas idosas",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "T_P22_14": {
+      "position": 89,
+      "label": "Promoção de bem-estar e qualidade de vida dos trabalhadores",
+      "rawLabel": "Promoção de bem-estar e qualidade de vida dos trabalhadores",
+      "values": {
+        "1": "Muito interesse",
+        "2": "Algum interesse",
+        "3": "Nenhum interesse",
+        "4": "NS/NR"
+      }
+    },
+    "P23": {
+      "position": 90,
+      "label": "De um modo geral, qual a sua avaliação sobre a qualidade dos serviços prestados pelo Sesc à população? O(a) senhor(a) diria que, no conjunto, a qualidade dos serviços é ótima, boa, regular, ruim ou péssima?",
+      "rawLabel": "De um modo geral, qual a sua avaliação sobre a qualidade dos serviços prestados pelo Sesc à população? O(a) senhor(a) diria que, no conjunto, a qualidade dos serviços é ótima, boa, regular, ruim ou péssima?",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "T_P24_1": {
+      "position": 91,
+      "label": "Para a sociedade brasileira",
+      "rawLabel": "Para a sociedade brasileira",
+      "values": {
+        "1": "Muita falta",
+        "2": "Alguma falta",
+        "3": "Pouca falta",
+        "4": "Nenhuma falta",
+        "5": "NS/NR"
+      }
+    },
+    "T_P24_2": {
+      "position": 92,
+      "label": "Para o(a) senhor(a) e sua família",
+      "rawLabel": "Para o(a) senhor(a) e sua família",
+      "values": {
+        "1": "Muita falta",
+        "2": "Alguma falta",
+        "3": "Pouca falta",
+        "4": "Nenhuma falta",
+        "5": "NS/NR"
+      }
+    },
+    "T_P24_3": {
+      "position": 93,
+      "label": "Para o desenvolvimento do seu estado",
+      "rawLabel": "Para o desenvolvimento do seu estado",
+      "values": {
+        "1": "Muita falta",
+        "2": "Alguma falta",
+        "3": "Pouca falta",
+        "4": "Nenhuma falta",
+        "5": "NS/NR"
+      }
+    },
+    "P25": {
+      "position": 94,
+      "label": "Na sua opinião, qual é a principal fonte de recursos que mantém o SESC funcionando? O(a) senhor(a) acredita que o dinheiro vem...",
+      "rawLabel": "Na sua opinião, qual é a principal fonte de recursos que mantém o SESC funcionando? O(a) senhor(a) acredita que o dinheiro vem...",
+      "values": {
+        "1": "Das empresas do setor de comércio de bens, serviços e turismo (Empresários)",
+        "2": "Apenas para quem trabalha no comércio",
+        "3": "Dos próprios trabalhadores/comerciários (Desconto no salário)",
+        "4": "Do Governo / Impostos públicos",
+        "5": "Dos Sindicatos",
+        "6": "Da venda de serviços e produtos do próprio Sesc (Mensalidades/Ingressos)",
+        "7": "Outros",
+        "8": "NS/NR"
+      }
+    },
+    "P26": {
+      "position": 95,
+      "label": "Pelo que sabe ou ouviu falar, o SESC é uma entidade pública, privada ou uma entidade mista?",
+      "rawLabel": "Pelo que sabe ou ouviu falar, o SESC é uma entidade pública, privada ou uma entidade mista?",
+      "values": {
+        "1": "Pública",
+        "2": "Privada",
+        "3": "Mista",
+        "4": "Nenhuma dessas",
+        "5": "NS/NR"
+      }
+    },
+    "P27": {
+      "position": 96,
+      "label": "Na sua percepção, o Sesc é uma instituição aberta para toda a população ou o senhor(a) acredita que ela é voltada apenas para quem trabalha no setor de comércio de bens, serviços e turismo?",
+      "rawLabel": "Na sua percepção, o Sesc é uma instituição aberta para toda a população ou o senhor(a) acredita que ela é voltada apenas para quem trabalha no setor de comércio de bens, serviços e turismo?",
+      "values": {
+        "1": "Aberta para toda a população",
+        "2": "Apenas para quem trabalha no comércio",
+        "3": "Nenhuma dessas",
+        "4": "NS/NR"
+      }
+    },
+    "P28": {
+      "position": 97,
+      "label": "Sobre o papel do Sesc no Brasil, com qual dessas frases o(a) senhor(a) mais concorda?",
+      "rawLabel": "Sobre o papel do Sesc no Brasil, com qual dessas frases o(a) senhor(a) mais concorda?",
+      "values": {
+        "1": "O Sesc é um parceiro que entrega serviços com uma agilidade que o Governo dificilmente teria",
+        "2": "O Sesc ajuda o Governo, mas o próprio Estado poderia fazer esse trabalho se ficasse com o dinheiro",
+        "3": "O Sesc faz o que é obrigação do Governo e o próprio Estado deveria controlar e fazer esse serviço",
+        "4": "Nenhuma dessas",
+        "5": "NS/NR"
+      }
+    },
+    "P29": {
+      "position": 98,
+      "label": "O quanto o(a) senhor(a) se sente bem informado sobre como o Sesc aplica os seus recursos e os resultados sociais do trabalho que ele realiza no seu estado?",
+      "rawLabel": "O quanto o(a) senhor(a) se sente bem informado sobre como o Sesc aplica os seus recursos e os resultados sociais do trabalho que ele realiza no seu estado?",
+      "values": {
+        "1": "Muito informado(a)",
+        "2": "Informado(a)",
+        "3": "Mais ou menos informado(a)",
+        "4": "Pouco informado(a)",
+        "5": "Nada informado(a)",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_1": {
+      "position": 99,
+      "label": "Possui solidez e estabilidade financeira",
+      "rawLabel": "Possui solidez e estabilidade financeira",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_2": {
+      "position": 100,
+      "label": "É transparente",
+      "rawLabel": "É transparente",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_3": {
+      "position": 101,
+      "label": "É bem administrada e eficiente no uso de recursos",
+      "rawLabel": "É bem administrada e eficiente no uso de recursos",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_4": {
+      "position": 102,
+      "label": "É confiável e ética",
+      "rawLabel": "É confiável e ética",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_5": {
+      "position": 103,
+      "label": "Melhora a qualidade de vida da população",
+      "rawLabel": "Melhora a qualidade de vida da população",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_6": {
+      "position": 104,
+      "label": "Possui compromisso real com causas sociais importantes",
+      "rawLabel": "Possui compromisso real com causas sociais importantes",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_7": {
+      "position": 105,
+      "label": "Contribui para o desenvolvimento social da comunidade onde está localizado",
+      "rawLabel": "Contribui para o desenvolvimento social da comunidade onde está localizado",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_8": {
+      "position": 106,
+      "label": "Incentiva a cultura e a educação no país",
+      "rawLabel": "Incentiva a cultura e a educação no país",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_9": {
+      "position": 107,
+      "label": "Oferece serviços de alta qualidade",
+      "rawLabel": "Oferece serviços de alta qualidade",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_10": {
+      "position": 108,
+      "label": "Possui uma oferta completa de serviços que atendem a diversas necessidades",
+      "rawLabel": "Possui uma oferta completa de serviços que atendem a diversas necessidades",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_11": {
+      "position": 109,
+      "label": "Está presente onde a população mais precisa, sendo de fácil acesso",
+      "rawLabel": "Está presente onde a população mais precisa, sendo de fácil acesso",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_12": {
+      "position": 110,
+      "label": "Oferece serviços de alto valor por um preço justo e acessível",
+      "rawLabel": "Oferece serviços de alto valor por um preço justo e acessível",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_13": {
+      "position": 111,
+      "label": "O papel do Sesc na sociedade é fácil de entender",
+      "rawLabel": "O papel do Sesc na sociedade é fácil de entender",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_14": {
+      "position": 112,
+      "label": "É aberta ao diálogo e próxima aos seus públicos",
+      "rawLabel": "É aberta ao diálogo e próxima aos seus públicos",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_15": {
+      "position": 113,
+      "label": "Gera orgulho e admiração nas pessoas",
+      "rawLabel": "Gera orgulho e admiração nas pessoas",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "T_P30_16": {
+      "position": 114,
+      "label": "Possui uma comunicação clara sobre sua atuação",
+      "rawLabel": "Possui uma comunicação clara sobre sua atuação",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P31": {
+      "position": 115,
+      "label": "Desses atributos mencionados, qual o(a) senhor(a) avalia como o mais forte na imagem do Sesc? Entrevistador: caso necessário, apresentar a tela com as categorias",
+      "rawLabel": "Desses atributos mencionados, qual o(a) senhor(a) avalia como o mais forte na imagem do Sesc? Entrevistador: caso necessário, apresentar a tela com as categorias",
+      "values": {
+        "1": "Possui solidez e estabilidade financeira",
+        "2": "É transparente",
+        "3": "É bem administrada e eficiente no uso de recursos",
+        "4": "É confiável e ética",
+        "5": "Melhora a qualidade de vida da população",
+        "6": "Possui compromisso real com causas sociais importantes",
+        "7": "Contribui para o desenvolvimento social da comunidade onde está localizado",
+        "8": "Incentiva a cultura e a educação no país",
+        "9": "Oferece serviços de alta qualidade",
+        "10": "Possui uma oferta completa de serviços que atendem a diversas necessidades",
+        "11": "Está presente onde a população mais precisa, sendo de fácil acesso",
+        "12": "Oferece serviços de alto valor por um preço justo e acessível",
+        "13": "O papel do Sesc na sociedade é fácil de entender",
+        "14": "É aberta ao diálogo e próxima aos seus públicos",
+        "15": "Gera orgulho e admiração nas pessoas",
+        "16": "Possui uma comunicação clara sobre sua atuação",
+        "17": "Nenhum",
+        "18": "NS/NR"
+      }
+    },
+    "P32": {
+      "position": 116,
+      "label": "Desses atributos mencionados, qual o(a) senhor(a) avalia como o mais fraco na imagem do Sesc? Entrevistador: caso necessário, apresentar a tela com as categorias",
+      "rawLabel": "Desses atributos mencionados, qual o(a) senhor(a) avalia como o mais fraco na imagem do Sesc? Entrevistador: caso necessário, apresentar a tela com as categorias",
+      "values": {
+        "1": "Possui solidez e estabilidade financeira",
+        "2": "É transparente",
+        "3": "É bem administrada e eficiente no uso de recursos",
+        "4": "É confiável e ética",
+        "5": "Melhora a qualidade de vida da população",
+        "6": "Possui compromisso real com causas sociais importantes",
+        "7": "Contribui para o desenvolvimento social da comunidade onde está localizado",
+        "8": "Incentiva a cultura e a educação no país",
+        "9": "Oferece serviços de alta qualidade",
+        "10": "Possui uma oferta completa de serviços que atendem a diversas necessidades",
+        "11": "Está presente onde a população mais precisa, sendo de fácil acesso",
+        "12": "Oferece serviços de alto valor por um preço justo e acessível",
+        "13": "O papel do Sesc na sociedade é fácil de entender",
+        "14": "É aberta ao diálogo e próxima aos seus públicos",
+        "15": "Gera orgulho e admiração nas pessoas",
+        "16": "Possui uma comunicação clara sobre sua atuação",
+        "17": "Nenhum",
+        "18": "NS/NR"
+      }
+    },
+    "P33": {
+      "position": 117,
+      "label": "Agora, vamos imaginar que o SESC é uma pessoa, qual dessas características você mais associa a ela? (Apresentar cartão 2)",
+      "rawLabel": "Agora, vamos imaginar que o SESC é uma pessoa, qual dessas características você mais associa a ela? (Apresentar cartão 2)",
+      "values": {
+        "1": "É próxima/acessível",
+        "2": "É dinâmica",
+        "3": "É inovadora",
+        "4": "É democrática",
+        "5": "É sofisticada",
+        "6": "É respeitada",
+        "7": "É jovem",
+        "8": "É solidária",
+        "9": "É diversa",
+        "10": "É confiável",
+        "11": "É burocrática",
+        "12": "É envelhecida",
+        "13": "É arrogante",
+        "14": "Nenhuma dessas",
+        "15": "NS/NR"
+      }
+    },
+    "P35": {
+      "position": 118,
+      "label": "O(a) senhor(a) costuma se informar sobre as atividades, cursos ou serviços oferecidos pelo SESC?",
+      "rawLabel": "O(a) senhor(a) costuma se informar sobre as atividades, cursos ou serviços oferecidos pelo SESC?",
+      "values": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "NS/NR"
+      }
+    },
+    "P36_O1": {
+      "position": 119,
+      "label": "Por quais canais o(a) senhor(a) costuma se informar sobre as atividades, cursos ou serviços oferecidos pelo SESC?",
+      "rawLabel": "Por quais canais o(a) senhor(a) costuma se informar sobre as atividades, cursos ou serviços oferecidos pelo SESC?",
+      "values": {
+        "1": "Redes Sociais do SESC (Instagram, Facebook, etc.)",
+        "2": "Site oficial do SESC (Portal nacional ou estadual)",
+        "3": "E-mail marketing ou Newsletter do SESC",
+        "4": "Aplicativo do SESC",
+        "5": "WhatsApp do SESC",
+        "6": "Cartazes/avisos dentro das próprias unidades do SESC",
+        "7": "Revistas / Informativos Impressos do SESC",
+        "8": "Televisão",
+        "9": "Rádio",
+        "10": "Jornais/revistas impressas ou online",
+        "11": "Site ou portais e blogs na internet",
+        "12": "Indicação de amigos, parentes ou colegas de trabalho (Boca a boca)",
+        "13": "Redes Sociais (Instagram, Facebook, etc.)",
+        "14": "Ferramentas de busca na Internet (Google, Bing etc.)",
+        "15": "Outros",
+        "16": "NS/NR"
+      }
+    },
+    "P36_O2": {
+      "position": 120,
+      "label": "Por quais canais o(a) senhor(a) costuma se informar sobre as atividades, cursos ou serviços oferecidos pelo SESC?",
+      "rawLabel": "Por quais canais o(a) senhor(a) costuma se informar sobre as atividades, cursos ou serviços oferecidos pelo SESC?",
+      "values": {
+        "1": "Redes Sociais do SESC (Instagram, Facebook, etc.)",
+        "2": "Site oficial do SESC (Portal nacional ou estadual)",
+        "3": "E-mail marketing ou Newsletter do SESC",
+        "4": "Aplicativo do SESC",
+        "5": "WhatsApp do SESC",
+        "6": "Cartazes/avisos dentro das próprias unidades do SESC",
+        "7": "Revistas / Informativos Impressos do SESC",
+        "8": "Televisão",
+        "9": "Rádio",
+        "10": "Jornais/revistas impressas ou online",
+        "11": "Site ou portais e blogs na internet",
+        "12": "Indicação de amigos, parentes ou colegas de trabalho (Boca a boca)",
+        "13": "Redes Sociais (Instagram, Facebook, etc.)",
+        "14": "Ferramentas de busca na Internet (Google, Bing etc.)",
+        "15": "Outros",
+        "16": "NS/NR"
+      }
+    },
+    "P36_O3": {
+      "position": 121,
+      "label": "Por quais canais o(a) senhor(a) costuma se informar sobre as atividades, cursos ou serviços oferecidos pelo SESC?",
+      "rawLabel": "Por quais canais o(a) senhor(a) costuma se informar sobre as atividades, cursos ou serviços oferecidos pelo SESC?",
+      "values": {
+        "1": "Redes Sociais do SESC (Instagram, Facebook, etc.)",
+        "2": "Site oficial do SESC (Portal nacional ou estadual)",
+        "3": "E-mail marketing ou Newsletter do SESC",
+        "4": "Aplicativo do SESC",
+        "5": "WhatsApp do SESC",
+        "6": "Cartazes/avisos dentro das próprias unidades do SESC",
+        "7": "Revistas / Informativos Impressos do SESC",
+        "8": "Televisão",
+        "9": "Rádio",
+        "10": "Jornais/revistas impressas ou online",
+        "11": "Site ou portais e blogs na internet",
+        "12": "Indicação de amigos, parentes ou colegas de trabalho (Boca a boca)",
+        "13": "Redes Sociais (Instagram, Facebook, etc.)",
+        "14": "Ferramentas de busca na Internet (Google, Bing etc.)",
+        "15": "Outros",
+        "16": "NS/NR"
+      }
+    },
+    "P37": {
+      "position": 122,
+      "label": "O(a) senhor(a) já recebeu, em algum momento, informações, notícias ou divulgações sobre o SESC, seus cursos ou serviços?",
+      "rawLabel": "O(a) senhor(a) já recebeu, em algum momento, informações, notícias ou divulgações sobre o SESC, seus cursos ou serviços?",
+      "values": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "NS/NR"
+      }
+    },
+    "P38_O1": {
+      "position": 123,
+      "label": "Por quais canais o(a) senhor(a) já recebeu ou costuma receber essas informações sobre o SESC?",
+      "rawLabel": "Por quais canais o(a) senhor(a) já recebeu ou costuma receber essas informações sobre o SESC?",
+      "values": {
+        "1": "Redes Sociais do SESC (Instagram, Facebook, etc.)",
+        "2": "Site oficial do SESC (Portal nacional ou estadual)",
+        "3": "E-mail marketing ou Newsletter do SESC",
+        "4": "Aplicativo do SESC",
+        "5": "WhatsApp do SESC",
+        "6": "Cartazes/avisos dentro das próprias unidades do SESC",
+        "7": "Revistas / Informativos Impressos do SESC",
+        "8": "Televisão",
+        "9": "Rádio",
+        "10": "Jornais/revistas impressas ou online",
+        "11": "Site ou portais e blogs na internet",
+        "12": "Indicação de amigos, parentes ou colegas de trabalho (Boca a boca)",
+        "13": "Redes Sociais (Instagram, Facebook, etc.)",
+        "14": "Ferramentas de busca na Internet (Google, Bing etc.)",
+        "15": "Outros",
+        "16": "NS/NR"
+      }
+    },
+    "P38_O2": {
+      "position": 124,
+      "label": "Por quais canais o(a) senhor(a) já recebeu ou costuma receber essas informações sobre o SESC?",
+      "rawLabel": "Por quais canais o(a) senhor(a) já recebeu ou costuma receber essas informações sobre o SESC?",
+      "values": {
+        "1": "Redes Sociais do SESC (Instagram, Facebook, etc.)",
+        "2": "Site oficial do SESC (Portal nacional ou estadual)",
+        "3": "E-mail marketing ou Newsletter do SESC",
+        "4": "Aplicativo do SESC",
+        "5": "WhatsApp do SESC",
+        "6": "Cartazes/avisos dentro das próprias unidades do SESC",
+        "7": "Revistas / Informativos Impressos do SESC",
+        "8": "Televisão",
+        "9": "Rádio",
+        "10": "Jornais/revistas impressas ou online",
+        "11": "Site ou portais e blogs na internet",
+        "12": "Indicação de amigos, parentes ou colegas de trabalho (Boca a boca)",
+        "13": "Redes Sociais (Instagram, Facebook, etc.)",
+        "14": "Ferramentas de busca na Internet (Google, Bing etc.)",
+        "15": "Outros",
+        "16": "NS/NR"
+      }
+    },
+    "P38_O3": {
+      "position": 125,
+      "label": "Por quais canais o(a) senhor(a) já recebeu ou costuma receber essas informações sobre o SESC?",
+      "rawLabel": "Por quais canais o(a) senhor(a) já recebeu ou costuma receber essas informações sobre o SESC?",
+      "values": {
+        "1": "Redes Sociais do SESC (Instagram, Facebook, etc.)",
+        "2": "Site oficial do SESC (Portal nacional ou estadual)",
+        "3": "E-mail marketing ou Newsletter do SESC",
+        "4": "Aplicativo do SESC",
+        "5": "WhatsApp do SESC",
+        "6": "Cartazes/avisos dentro das próprias unidades do SESC",
+        "7": "Revistas / Informativos Impressos do SESC",
+        "8": "Televisão",
+        "9": "Rádio",
+        "10": "Jornais/revistas impressas ou online",
+        "11": "Site ou portais e blogs na internet",
+        "12": "Indicação de amigos, parentes ou colegas de trabalho (Boca a boca)",
+        "13": "Redes Sociais (Instagram, Facebook, etc.)",
+        "14": "Ferramentas de busca na Internet (Google, Bing etc.)",
+        "15": "Outros",
+        "16": "NS/NR"
+      }
+    },
+    "P39": {
+      "position": 126,
+      "label": "No futuro, o(a) senhor(a) gostaria de passar a receber informações, novidades ou a programação do Sesc?",
+      "rawLabel": "No futuro, o(a) senhor(a) gostaria de passar a receber informações, novidades ou a programação do Sesc?",
+      "values": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "NS/NR"
+      }
+    },
+    "P40_O1": {
+      "position": 127,
+      "label": "E por onde o(a) senhor(a) gostaria de passar a receber informações, novidades ou a programação do Sesc?",
+      "rawLabel": "E por onde o(a) senhor(a) gostaria de passar a receber informações, novidades ou a programação do Sesc?",
+      "values": {
+        "1": "Redes Sociais do SESC (Instagram, Facebook, etc.)",
+        "2": "Site oficial do SESC (Portal nacional ou estadual)",
+        "3": "E-mail marketing ou Newsletter do SESC",
+        "4": "Aplicativo do SESC",
+        "5": "WhatsApp do SESC",
+        "6": "Cartazes/avisos dentro das próprias unidades do SESC",
+        "7": "Revistas / Informativos Impressos do SESC",
+        "8": "Televisão",
+        "9": "Rádio",
+        "10": "Jornais/revistas impressas ou online",
+        "11": "Site ou portais e blogs na internet",
+        "12": "Indicação de amigos, parentes ou colegas de trabalho (Boca a boca)",
+        "13": "Redes Sociais (Instagram, Facebook, etc.)",
+        "14": "Ferramentas de busca na Internet (Google, Bing etc.)",
+        "15": "Outros",
+        "16": "NS/NR"
+      }
+    },
+    "P40_O2": {
+      "position": 128,
+      "label": "E por onde o(a) senhor(a) gostaria de passar a receber informações, novidades ou a programação do Sesc?",
+      "rawLabel": "E por onde o(a) senhor(a) gostaria de passar a receber informações, novidades ou a programação do Sesc?",
+      "values": {
+        "1": "Redes Sociais do SESC (Instagram, Facebook, etc.)",
+        "2": "Site oficial do SESC (Portal nacional ou estadual)",
+        "3": "E-mail marketing ou Newsletter do SESC",
+        "4": "Aplicativo do SESC",
+        "5": "WhatsApp do SESC",
+        "6": "Cartazes/avisos dentro das próprias unidades do SESC",
+        "7": "Revistas / Informativos Impressos do SESC",
+        "8": "Televisão",
+        "9": "Rádio",
+        "10": "Jornais/revistas impressas ou online",
+        "11": "Site ou portais e blogs na internet",
+        "12": "Indicação de amigos, parentes ou colegas de trabalho (Boca a boca)",
+        "13": "Redes Sociais (Instagram, Facebook, etc.)",
+        "14": "Ferramentas de busca na Internet (Google, Bing etc.)",
+        "15": "Outros",
+        "16": "NS/NR"
+      }
+    },
+    "P40_O3": {
+      "position": 129,
+      "label": "E por onde o(a) senhor(a) gostaria de passar a receber informações, novidades ou a programação do Sesc?",
+      "rawLabel": "E por onde o(a) senhor(a) gostaria de passar a receber informações, novidades ou a programação do Sesc?",
+      "values": {
+        "1": "Redes Sociais do SESC (Instagram, Facebook, etc.)",
+        "2": "Site oficial do SESC (Portal nacional ou estadual)",
+        "3": "E-mail marketing ou Newsletter do SESC",
+        "4": "Aplicativo do SESC",
+        "5": "WhatsApp do SESC",
+        "6": "Cartazes/avisos dentro das próprias unidades do SESC",
+        "7": "Revistas / Informativos Impressos do SESC",
+        "8": "Televisão",
+        "9": "Rádio",
+        "10": "Jornais/revistas impressas ou online",
+        "11": "Site ou portais e blogs na internet",
+        "12": "Indicação de amigos, parentes ou colegas de trabalho (Boca a boca)",
+        "13": "Redes Sociais (Instagram, Facebook, etc.)",
+        "14": "Ferramentas de busca na Internet (Google, Bing etc.)",
+        "15": "Outros",
+        "16": "NS/NR"
+      }
+    },
+    "Renda_CAT": {
+      "position": 130,
+      "label": "",
+      "rawLabel": "<none>",
+      "values": {
+        "1": "Até 1 S.M.",
+        "2": "Mais de 1 até 2 S.M.",
+        "3": "Mais de 2 até 5 S.M.",
+        "4": "Mais de 5 S.M.",
+        "99": "NS/NR"
+      }
+    },
+    "PF11": {
+      "position": 131,
+      "label": "Você se identifica como sendo uma pessoa com deficiência?",
+      "rawLabel": "Você se identifica como sendo uma pessoa com deficiência?",
+      "values": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "Prefiro não declarar"
+      }
+    },
+    "PF13": {
+      "position": 132,
+      "label": "Qual a sua religião?",
+      "rawLabel": "Qual a sua religião?",
+      "values": {
+        "1": "Católica Apostólica Romana",
+        "2": "Evangélica (de qualquer denominação)",
+        "3": "Espírita (Kardecista, outras)",
+        "4": "Afro-brasileira (de qualquer denominação)",
+        "5": "Orientais (Budismo, Islamismo, outras)",
+        "6": "Judaica",
+        "7": "Outras religiões",
+        "8": "É religioso, mas não segue nenhuma | Agnóstico",
+        "9": "Ateu, não tem religião",
+        "10": "Não respondeu"
+      }
+    },
+    "PF14": {
+      "position": 133,
+      "label": "Última pergunta: dentre as seguintes alternativas, você se reconhece ou se identifica como de cor ou raça",
+      "rawLabel": "Última pergunta: dentre as seguintes alternativas, você se reconhece ou se identifica como de cor ou raça:",
+      "values": {
+        "1": "Branca",
+        "2": "Preta",
+        "3": "Amarela",
+        "4": "Parda",
+        "5": "Indígena",
+        "6": "Prefere não responder"
+      }
+    },
+    "COR": {
+      "position": 134,
+      "label": "COR",
+      "rawLabel": "COR",
+      "values": {
+        "1": "Branca",
+        "2": "Preta",
+        "3": "Parda",
+        "4": "Outras"
+      }
+    },
+    "uf_cotas": {
+      "position": 135,
+      "label": "UF",
+      "rawLabel": "UF",
+      "values": {}
+    },
+    "edu_cotas": {
+      "position": 136,
+      "label": "ESCOLARIDADE",
+      "rawLabel": "ESCOLARIDADE",
+      "values": {
+        "1": "Ate Fundamental Completo",
+        "2": "Ate Medio Completo",
+        "3": "Superior Incompleto ou mais"
+      }
+    },
+    "weights.rf": {
+      "position": 137,
+      "label": "PESO",
+      "rawLabel": "PESO",
+      "values": {}
+    },
+    "INDICADOR": {
+      "position": 138,
+      "label": "INDICADOR",
+      "rawLabel": "INDICADOR",
+      "values": {}
+    },
+    "GESTÃO": {
+      "position": 139,
+      "label": "DIMENSÃO",
+      "rawLabel": "DIMENSÃO",
+      "values": {}
+    },
+    "SOCIAL": {
+      "position": 140,
+      "label": "DIMENSÃO",
+      "rawLabel": "DIMENSÃO",
+      "values": {}
+    },
+    "PRODUTOS": {
+      "position": 141,
+      "label": "DIMENSÃO",
+      "rawLabel": "DIMENSÃO",
+      "values": {}
+    },
+    "COMUNICAÇÃO": {
+      "position": 142,
+      "label": "DIMENSÃO",
+      "rawLabel": "DIMENSÃO",
+      "values": {}
+    },
+    "Idade_CAT": {
+      "position": null,
+      "label": "",
+      "rawLabel": "",
+      "values": {
+        "1": "16 a 24 anos",
+        "2": "25 a 40 anos",
+        "3": "41 a 59 anos",
+        "4": "60 anos ou mais"
+      }
+    },
+    "Filhos_CAT": {
+      "position": null,
+      "label": "",
+      "rawLabel": "",
+      "values": {
+        "1": "Possui filhos",
+        "2": "Não possui filhos",
+        "99": "NS/NR"
+      }
+    },
+    "Região_CAT": {
+      "position": null,
+      "label": "",
+      "rawLabel": "",
+      "values": {
+        "1": "Norte",
+        "2": "Centro-Oeste",
+        "3": "Nordeste",
+        "4": "Sudeste",
+        "5": "Sul"
+      }
+    },
+    "P10_CAT": {
+      "position": null,
+      "label": "",
+      "rawLabel": "",
+      "values": {
+        "1": "Heavy User",
+        "2": "Medium User",
+        "3": "Light User",
+        "99": "NS/NR"
+      }
+    }
+  }
+}

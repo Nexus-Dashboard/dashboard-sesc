@@ -1,0 +1,1028 @@
+{
+  "survey": "stakeholders",
+  "source": "Nexus - Sesc - Stakeholders - Reputação e Imagem - CODEBOOK.xlsx",
+  "generatedAt": "2026-09-29T19:25:10.576Z",
+  "variables": {
+    "Response_ID": {
+      "position": 1,
+      "label": "Response ID",
+      "rawLabel": "Response ID",
+      "values": {}
+    },
+    "PF3": {
+      "position": 2,
+      "label": "Público",
+      "rawLabel": "PF3 - Público:",
+      "values": {
+        "1": "Poder Legislativo",
+        "2": "Mídia"
+      }
+    },
+    "P1": {
+      "position": 3,
+      "label": "Vamos começar a pesquisa.. Quando o(a) senhor(a) pensa em instituições de referência que oferecem serviços de educação, saúde, cultura, lazer e assistência social voltados ao bem-estar do trabalhador e da população no Brasil, qual é aF8.2",
+      "rawLabel": "P1 - Vamos começar a pesquisa.. Quando o(a) senhor(a) pensa em instituições de referência que oferecem serviços de educação, saúde, cultura, lazer e assistência social voltados ao bem-estar do trabalhador e da população no Brasil, qual é aF8.2",
+      "values": {}
+    },
+    "P2R1": {
+      "position": 4,
+      "label": "SESC (Serviço Social do Comércio)",
+      "rawLabel": "SESC (Serviço Social do Comércio)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P2R2": {
+      "position": 5,
+      "label": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "rawLabel": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P2R3": {
+      "position": 6,
+      "label": "SESI (Serviço Social da Indústria)",
+      "rawLabel": "SESI (Serviço Social da Indústria)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P2R4": {
+      "position": 7,
+      "label": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "rawLabel": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P2R5": {
+      "position": 8,
+      "label": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "rawLabel": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P2R6": {
+      "position": 9,
+      "label": "SEST (Serviço Social do Transporte)",
+      "rawLabel": "SEST (Serviço Social do Transporte)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P2R7": {
+      "position": 10,
+      "label": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "rawLabel": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P3R1": {
+      "position": 11,
+      "label": "SESC (Serviço Social do Comércio)",
+      "rawLabel": "SESC (Serviço Social do Comércio)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "P3R2": {
+      "position": 12,
+      "label": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "rawLabel": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "P3R3": {
+      "position": 13,
+      "label": "SESI (Serviço Social da Indústria)",
+      "rawLabel": "SESI (Serviço Social da Indústria)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "P3R4": {
+      "position": 14,
+      "label": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "rawLabel": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "P3R5": {
+      "position": 15,
+      "label": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "rawLabel": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "P3R6": {
+      "position": 16,
+      "label": "SEST (Serviço Social do Transporte)",
+      "rawLabel": "SEST (Serviço Social do Transporte)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "P3R7": {
+      "position": 17,
+      "label": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "rawLabel": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "values": {
+        "1": "Confia totalmente",
+        "2": "Confia parcialmente",
+        "3": "Não confia, nem desconfia",
+        "4": "Não confia muito",
+        "5": "Não confia nada",
+        "6": "NS/NR"
+      }
+    },
+    "P4R1": {
+      "position": 18,
+      "label": "SESC (Serviço Social do Comércio)",
+      "rawLabel": "SESC (Serviço Social do Comércio)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "P4R2": {
+      "position": 19,
+      "label": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "rawLabel": "SENAC (Serviço Nacional de Aprendizagem do Comércio)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "P4R3": {
+      "position": 20,
+      "label": "SESI (Serviço Social da Indústria)",
+      "rawLabel": "SESI (Serviço Social da Indústria)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "P4R4": {
+      "position": 21,
+      "label": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "rawLabel": "SENAI (Serviço Nacional de Aprendizagem Industrial)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "P4R5": {
+      "position": 22,
+      "label": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "rawLabel": "SEBRAE (Serviço de Apoio às Micro e Pequenas Empresas)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "P4R6": {
+      "position": 23,
+      "label": "SEST (Serviço Social do Transporte)",
+      "rawLabel": "SEST (Serviço Social do Transporte)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "P4R7": {
+      "position": 24,
+      "label": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "rawLabel": "SENAT (Serviço Nacional de Aprendizagem do Transporte)",
+      "values": {
+        "1": "Falaria bem mesmo que não me perguntassem",
+        "2": "Falaria bem quando me perguntassem",
+        "3": "Falaria de maneira neutra, nem elogiando nem criticando",
+        "4": "Falaria de maneira crítica, quando me perguntassem",
+        "5": "Falaria de maneira crítica, sem que me perguntassem",
+        "6": "NS/NR"
+      }
+    },
+    "P7": {
+      "position": 25,
+      "label": "Baseado em seus conhecimentos e no que ouviu falar sobre o SESC, qual das alternativas abaixo mais se aproxima da percepção que possui da entidade? O(a) senhor(a) diria que ela é positiva ou negativa? Muito ou um pouco?",
+      "instruction": "ESTIMULADA E ÚNICA",
+      "rawLabel": "P7 - Baseado em seus conhecimentos e no que ouviu falar sobre o SESC, qual das alternativas abaixo mais se aproxima da percepção que possui da entidade? O(a) senhor(a) diria que ela é positiva ou negativa? Muito ou um pouco? (ESTIMULADA E ÚNICA)",
+      "values": {
+        "1": "Muito positiva",
+        "2": "Um pouco positiva",
+        "3": "Nem positiva, nem negativa",
+        "4": "Um pouco negativa",
+        "5": "Muito negativa",
+        "6": "NS/NR"
+      }
+    },
+    "P9R1": {
+      "position": 26,
+      "label": "Na sua opinião, qual o grau de importância do SESC hoje para _________ (LER ITENS)? (ESTIMULADA E ÚNICA POR LINHA) - A sociedade brasileira como um todo",
+      "rawLabel": "P9 - Na sua opinião, qual o grau de importância do SESC hoje para _________ (LER ITENS)? (ESTIMULADA E ÚNICA POR LINHA) - A sociedade brasileira como um todo",
+      "values": {
+        "1": "Muito importante",
+        "2": "Importante",
+        "3": "Mais ou menos importante",
+        "4": "Pouco importante",
+        "5": "Nada importante",
+        "6": "NS/NR"
+      }
+    },
+    "P9R2": {
+      "position": 27,
+      "label": "Na sua opinião, qual o grau de importância do SESC hoje para _________ (LER ITENS)? (ESTIMULADA E ÚNICA POR LINHA) - O desenvolvimento do seu estado",
+      "rawLabel": "P9 - Na sua opinião, qual o grau de importância do SESC hoje para _________ (LER ITENS)? (ESTIMULADA E ÚNICA POR LINHA) - O desenvolvimento do seu estado",
+      "values": {
+        "1": "Muito importante",
+        "2": "Importante",
+        "3": "Mais ou menos importante",
+        "4": "Pouco importante",
+        "5": "Nada importante",
+        "6": "NS/NR"
+      }
+    },
+    "P9R3": {
+      "position": 28,
+      "label": "Na sua opinião, qual o grau de importância do SESC hoje para _________ (LER ITENS)? (ESTIMULADA E ÚNICA POR LINHA) - O desenvolvimento do estado em que o Sesc está localizado",
+      "rawLabel": "P9 - Na sua opinião, qual o grau de importância do SESC hoje para _________ (LER ITENS)? (ESTIMULADA E ÚNICA POR LINHA) - O desenvolvimento do estado em que o Sesc está localizado",
+      "values": {
+        "1": "Muito importante",
+        "2": "Importante",
+        "3": "Mais ou menos importante",
+        "4": "Pouco importante",
+        "5": "Nada importante",
+        "6": "NS/NR"
+      }
+    },
+    "P10": {
+      "position": 29,
+      "label": "De um modo geral, sobre os serviços oferecidos pelo SESC, o(a) senhor(a) se considera muito informado(a), informado(a), mais ou menos informado(a), pouco informado(a) ou nada informado(a)?",
+      "instruction": "ESTIMULADA E ÚNICA",
+      "rawLabel": "P10 - De um modo geral, sobre os serviços oferecidos pelo SESC, o(a) senhor(a) se considera muito informado(a), informado(a), mais ou menos informado(a), pouco informado(a) ou nada informado(a)? (ESTIMULADA E ÚNICA)",
+      "values": {
+        "1": "Muito informado(a)",
+        "2": "Informado(a)",
+        "3": "Mais ou menos informado(a)",
+        "4": "Pouco informado(a)",
+        "5": "Nada informado(a)",
+        "6": "NS/NR"
+      }
+    },
+    "P11R1": {
+      "position": 30,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R2": {
+      "position": 31,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R3": {
+      "position": 32,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R4": {
+      "position": 33,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R5": {
+      "position": 34,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R6": {
+      "position": 35,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R7": {
+      "position": 36,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R8": {
+      "position": 37,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R9": {
+      "position": 38,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R10": {
+      "position": 39,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R11": {
+      "position": 40,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R12": {
+      "position": 41,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R13": {
+      "position": 42,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P11R14": {
+      "position": 43,
+      "label": "Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "rawLabel": "P11 - Agora, vou listar algumas áreas de atuação do SESC e gostaria de saber o quanto diria conhecer sobre cada uma delas. O(A) senhor(a) diria que conhece muito bem, conhece bem, conhece um pouco, conhece só de ouvir falar ou não conhece nada? (ESTIMF800",
+      "values": {
+        "1": "Conhece muito bem",
+        "2": "Conhece bem",
+        "3": "Conhece um pouco",
+        "4": "Conhece só de ouvir falar",
+        "5": "Não conhece nada",
+        "6": "NS/NR"
+      }
+    },
+    "P12": {
+      "position": 44,
+      "label": "De um modo geral, qual a sua avaliação sobre a qualidade dos serviços prestados pelo Sesc à população? O(a) senhor(a) diria que, no conjunto, a qualidade dos serviços é ótima, boa, regular, ruim ou péssima?",
+      "instruction": "ESTIMULADA E ÚNICA",
+      "rawLabel": "P12 - De um modo geral, qual a sua avaliação sobre a qualidade dos serviços prestados pelo Sesc à população? O(a) senhor(a) diria que, no conjunto, a qualidade dos serviços é ótima, boa, regular, ruim ou péssima? (ESTIMULADA E ÚNICA)",
+      "values": {
+        "1": "Ótima",
+        "2": "Boa",
+        "3": "Regular",
+        "4": "Ruim",
+        "5": "Péssima",
+        "6": "NS/NR"
+      }
+    },
+    "P13R1": {
+      "position": 45,
+      "label": "Na sua opinião, se o Sesc deixasse de existir amanhã, o quanto o(a) senhor(a) acredita que isso faria falta _________ (LER ITENS)? (ESTIMULADA E ÚNICA POR LINHA) - Para a sociedade brasileira",
+      "rawLabel": "P13 - Na sua opinião, se o Sesc deixasse de existir amanhã, o quanto o(a) senhor(a) acredita que isso faria falta _________ (LER ITENS)? (ESTIMULADA E ÚNICA POR LINHA) - Para a sociedade brasileira",
+      "values": {
+        "1": "Muita falta",
+        "2": "Alguma falta",
+        "3": "Pouca falta",
+        "4": "Nenhuma falta",
+        "5": "NS/NR"
+      }
+    },
+    "P13R2": {
+      "position": 46,
+      "label": "Na sua opinião, se o Sesc deixasse de existir amanhã, o quanto o(a) senhor(a) acredita que isso faria falta _________ (LER ITENS)? (ESTIMULADA E ÚNICA POR LINHA) - Para o desenvolvimento do estado que representa",
+      "rawLabel": "P13 - Na sua opinião, se o Sesc deixasse de existir amanhã, o quanto o(a) senhor(a) acredita que isso faria falta _________ (LER ITENS)? (ESTIMULADA E ÚNICA POR LINHA) - Para o desenvolvimento do estado que representa",
+      "values": {
+        "1": "Muita falta",
+        "2": "Alguma falta",
+        "3": "Pouca falta",
+        "4": "Nenhuma falta",
+        "5": "NS/NR"
+      }
+    },
+    "P14": {
+      "position": 47,
+      "label": "Na sua opinião, qual é a principal fonte de recursos que mantém o SESC funcionando? O(a) senhor(a) acredita que o dinheiro vem...",
+      "instruction": "ESTIMULADA E ÚNICA",
+      "rawLabel": "P14 - Na sua opinião, qual é a principal fonte de recursos que mantém o SESC funcionando? O(a) senhor(a) acredita que o dinheiro vem... (ESTIMULADA E ÚNICA)",
+      "values": {
+        "1": "Das empresas do setor de comércio de bens, serviços e turismo (Empresários)",
+        "2": "Apenas para quem trabalha no comércio",
+        "3": "Dos próprios trabalhadores/comerciários (Desconto no salário)",
+        "4": "Do Governo / Impostos públicos",
+        "5": "Dos Sindicatos",
+        "6": "Da venda de serviços e produtos do próprio Sesc (Mensalidades/Ingressos)",
+        "7": "NS/NR",
+        "8": "Outros"
+      }
+    },
+    "P14_O": {
+      "position": 48,
+      "label": "Na sua opinião, qual é a principal fonte de recursos que mantém o SESC funcionando? O(a) senhor(a) acredita que o dinheiro vem... (ESTIMULADA E ÚNICA) - Other",
+      "rawLabel": "Na sua opinião, qual é a principal fonte de recursos que mantém o SESC funcionando? O(a) senhor(a) acredita que o dinheiro vem... (ESTIMULADA E ÚNICA) - Other",
+      "values": {}
+    },
+    "P15": {
+      "position": 49,
+      "label": "Pelo que sabe ou ouviu falar, o SESC é uma entidade pública, privada ou uma entidade mista?",
+      "instruction": "ESTIMULADA E ÚNICA",
+      "rawLabel": "P15 - Pelo que sabe ou ouviu falar, o SESC é uma entidade pública, privada ou uma entidade mista? (ESTIMULADA E ÚNICA)",
+      "values": {
+        "1": "Pública",
+        "2": "Privada",
+        "3": "Mista",
+        "4": "Nenhuma dessas",
+        "5": "NS/NR"
+      }
+    },
+    "P16": {
+      "position": 50,
+      "label": "Sobre o papel do Sesc no Brasil, com qual dessas frases o(a) senhor(a) mais concorda?",
+      "instruction": "ESTIMULADA E ÚNICA",
+      "rawLabel": "P16 - Sobre o papel do Sesc no Brasil, com qual dessas frases o(a) senhor(a) mais concorda? (ESTIMULADA E ÚNICA)",
+      "values": {
+        "1": "O Sesc é um parceiro que entrega serviços com uma agilidade que o Governo dificilmente teria",
+        "2": "O Sesc ajuda o Governo, mas o próprio Estado poderia fazer esse trabalho se ficasse com o dinheiro",
+        "3": "O Sesc faz o que é obrigação do Governo e o próprio Estado deveria controlar e fazer esse serviço",
+        "4": "Nenhuma dessas",
+        "5": "NS/NR"
+      }
+    },
+    "P17": {
+      "position": 51,
+      "label": "O quanto o(a) senhor(a) se sente bem informado sobre como o Sesc aplica os seus recursos e os resultados sociais do trabalho que ele realiza no seu estado?",
+      "instruction": "ESTIMULADA E ÚNICA",
+      "rawLabel": "P17 - O quanto o(a) senhor(a) se sente bem informado sobre como o Sesc aplica os seus recursos e os resultados sociais do trabalho que ele realiza no seu estado? (ESTIMULADA E ÚNICA)",
+      "values": {
+        "1": "Muito informado(a)",
+        "2": "Informado(a)",
+        "3": "Mais ou menos informado(a)",
+        "4": "Pouco informado(a)",
+        "5": "Nada informado(a)",
+        "6": "NS/NR"
+      }
+    },
+    "P18R1": {
+      "position": 52,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R2": {
+      "position": 53,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R3": {
+      "position": 54,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R4": {
+      "position": 55,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R5": {
+      "position": 56,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R6": {
+      "position": 57,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R7": {
+      "position": 58,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R8": {
+      "position": 59,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R9": {
+      "position": 60,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R10": {
+      "position": 61,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R11": {
+      "position": 62,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R12": {
+      "position": 63,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R13": {
+      "position": 64,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R14": {
+      "position": 65,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R15": {
+      "position": 66,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P18R16": {
+      "position": 67,
+      "label": "Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "rawLabel": "P18 - Agora, vou ler alguns atributos e gostaria que me dissesse o quanto concorda ou discorda que o SESC possui cada um deles. Vamos utilizar uma escala de 1 a 5, em que 1 significa que o(a) senhor(a) “discorda totalmente” e 5 significa que “concordF800",
+      "values": {
+        "1": "1 - Discorda totalmente",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5 - Concorda totalmente",
+        "6": "NS/NR"
+      }
+    },
+    "P20": {
+      "position": 68,
+      "label": "O(A) senhor(a) já utilizou o SESC como fonte técnica?",
+      "instruction": "ESTIMULADA E ÚNICA",
+      "rawLabel": "P20 - O(A) senhor(a) já utilizou o SESC como fonte técnica? (ESTIMULADA E ÚNICA)",
+      "values": {
+        "1": "Sim",
+        "2": "Não"
+      }
+    },
+    "P21": {
+      "position": 69,
+      "label": "Independentemente de já ter utilizado ou não o SESC como fonte, a instituição é vista pelo o(a) senhor(a) como uma fonte técnica confiável?",
+      "instruction": "ESTIMULADA E ÚNICA",
+      "rawLabel": "P21 - Independentemente de já ter utilizado ou não o SESC como fonte, a instituição é vista pelo o(a) senhor(a) como uma fonte técnica confiável? (ESTIMULADA E ÚNICA)",
+      "values": {
+        "1": "Sim",
+        "2": "Não"
+      }
+    },
+    "P22": {
+      "position": 70,
+      "label": "Na sua experiência profissional, o quão acessível e transparente o SESC é no relacionamento com a imprensa e na prestação de contas de suas atividades?",
+      "instruction": "ESTIMULADA E ÚNICA",
+      "rawLabel": "P22 - Na sua experiência profissional, o quão acessível e transparente o SESC é no relacionamento com a imprensa e na prestação de contas de suas atividades? (ESTIMULADA E ÚNICA)",
+      "values": {
+        "1": "Muito transparente e ágil no atendimento",
+        "2": "Transparente, mas com processos lentos de resposta",
+        "3": "Pouco transparente ou de difícil acesso",
+        "4": "Nada transparente",
+        "5": "NS/NR"
+      }
+    },
+    "PF7": {
+      "position": 71,
+      "label": "Partido",
+      "rawLabel": "PF7 - Partido:",
+      "values": {
+        "1": "MDB",
+        "2": "PTB",
+        "3": "PDT",
+        "4": "PT",
+        "5": "PCdoB",
+        "6": "PSB",
+        "7": "PSDB",
+        "8": "AGIR",
+        "9": "PSC",
+        "10": "PMN",
+        "11": "CIDADANIA",
+        "12": "PV",
+        "13": "AVANTE",
+        "14": "PP",
+        "15": "PSTU",
+        "16": "PCB",
+        "17": "PRTB",
+        "18": "DC",
+        "19": "PCO",
+        "20": "PODE",
+        "21": "REPUBLICANOS",
+        "22": "PSOL",
+        "23": "PL",
+        "24": "PSD",
+        "25": "PATRIOTA",
+        "26": "PROS",
+        "27": "SOLIDARIEDADE",
+        "28": "NOVO",
+        "29": "REDE",
+        "30": "PMB",
+        "31": "UP",
+        "32": "UNIÃO"
+      }
+    },
+    "PF3.1": {
+      "position": 72,
+      "label": "ESTADO (UF):(MARQUE DE ACORDO COM O MAILING)",
+      "rawLabel": "PF3.1 - ESTADO (UF):(MARQUE DE ACORDO COM O MAILING)",
+      "values": {
+        "1": "Acre",
+        "2": "Alagoas",
+        "3": "Amapá",
+        "4": "Amazonas",
+        "5": "Bahia",
+        "6": "Ceará",
+        "7": "Distrito Federal",
+        "8": "Espírito Santo",
+        "9": "Goiás",
+        "10": "Maranhão",
+        "11": "Mato Grosso",
+        "12": "Mato Grosso do Sul",
+        "13": "Minas Gerais",
+        "14": "Pará",
+        "15": "Paraíba",
+        "16": "Paraná",
+        "17": "Pernambuco",
+        "18": "Piauí",
+        "19": "Rio de Janeiro",
+        "20": "Rio Grande do Norte",
+        "21": "Rio Grande do Sul",
+        "22": "Rondônia",
+        "23": "Roraima",
+        "24": "Santa Catarina",
+        "25": "São Paulo",
+        "26": "Sergipe",
+        "27": "Tocantins"
+      }
+    },
+    "PF8": {
+      "position": 73,
+      "label": "UF",
+      "rawLabel": "PF8 - UF:",
+      "values": {
+        "1": "Acre",
+        "2": "Alagoas",
+        "3": "Amapá",
+        "4": "Amazonas",
+        "5": "Bahia",
+        "6": "Ceará",
+        "7": "Distrito Federal",
+        "8": "Espírito Santo",
+        "9": "Goiás",
+        "10": "Maranhão",
+        "11": "Mato Grosso",
+        "12": "Mato Grosso do Sul",
+        "13": "Minas Gerais",
+        "14": "Pará",
+        "15": "Paraíba",
+        "16": "Paraná",
+        "17": "Pernambuco",
+        "18": "Piauí",
+        "19": "Rio de Janeiro",
+        "20": "Rio Grande do Norte",
+        "21": "Rio Grande do Sul",
+        "22": "Rondônia",
+        "23": "Roraima",
+        "24": "Santa Catarina",
+        "25": "São Paulo",
+        "26": "Sergipe",
+        "27": "Tocantins"
+      }
+    },
+    "INDICADOR": {
+      "position": 82,
+      "label": "",
+      "rawLabel": "<none>",
+      "values": {}
+    },
+    "Gestão": {
+      "position": 83,
+      "label": "",
+      "rawLabel": "<none>",
+      "values": {}
+    },
+    "Impacto_social": {
+      "position": 84,
+      "label": "",
+      "rawLabel": "<none>",
+      "values": {}
+    },
+    "Produtos_serviços": {
+      "position": 85,
+      "label": "",
+      "rawLabel": "<none>",
+      "values": {}
+    },
+    "Comunicacao": {
+      "position": 86,
+      "label": "",
+      "rawLabel": "<none>",
+      "values": {}
+    }
+  }
+}
