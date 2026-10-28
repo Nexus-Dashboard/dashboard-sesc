@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-NetTCPConnection -LocalPort 5173,5055 -State Listen -ErrorAction SilentlyContinue | ForEach-Object { $p = Get-CimInstance Win32_Process -Filter \"ProcessId=$\\($_.OwningProcess\\)\"; \"$\\($_.LocalPort\\) -> $\\($p.ProcessId\\) $\\($p.CommandLine\\)\" })",
+      "Bash(curl -s -m 20 \"http://localhost:5173/src/lib/api.ts\")",
+      "Bash(node prod.mjs)"
+    ]
+  }
+}

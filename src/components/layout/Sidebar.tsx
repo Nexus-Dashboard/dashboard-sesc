@@ -1,11 +1,15 @@
 import clsx from "clsx"
-import { LogOut, ShieldCheck, X } from "lucide-react"
+import { Download, Lock, LogOut, ShieldCheck, X } from "lucide-react"
+import { useState } from "react"
 import { NavLink, useNavigate } from "react-router-dom"
 import { useAuth, isAdmin } from "../../lib/auth/AuthContext"
 import { SURVEYS, SURVEY_ORDER } from "../../surveys"
 import type { SurveyConfig } from "../../surveys/types"
-import { UF_LABELS } from "../../lib/geo"
 import { useView } from "../../view/ViewContext"
+import { BRAND } from "../../lib/brand"
+import { unitName } from "../../lib/places"
+import { StateFlag } from "../ui/StateFlag"
+import { ExportDialog } from "../../export/ExportDialog"
 
 export function SesLogo({ className }: { className?: string }) {
   // Logo oficial (preta) invertida para branco sobre o azul-marinho
@@ -27,6 +31,9 @@ export function Sidebar({
   const view = useView()
   const navigate = useNavigate()
   const admin = isAdmin(session)
+  const [exporting, setExporting] = useState(false)
+  // Exportação só existe dentro de uma pesquisa (não na tela de admin)
+  const canExport = Boolean(config && sectionId)
 
   const goToSurvey = (id: SurveyConfig["id"]) => {
     const target = SURVEYS[id]
@@ -124,15 +131,29 @@ export function Sidebar({
         )}
       </nav>
 
-      <div className="border-t border-white/10 px-4 py-4">
+      <div className="space-y-3 border-t border-white/10 px-4 py-4">
+        {canExport && (
+          <button
+            type="button"
+            onClick={() => setExporting(true)}
+            className="flex w-full items-center justify-center gap-2 rounded-xl bg-white/10 px-3 py-2.5 text-sm font-semibold text-white ring-1 ring-white/15 transition hover:bg-white/15"
+          >
+            <Download className="h-4 w-4" aria-hidden />
+            Exportar (PDF / Excel)
+          </button>
+        )}
+        <p className="flex items-start gap-2 rounded-lg px-1 text-[11px] font-semibold leading-snug text-brand-orange">
+          <Lock className="mt-px h-3.5 w-3.5 shrink-0" aria-hidden />
+          {BRAND.disclaimer}
+        </p>
         <div className="flex items-center gap-3 rounded-xl bg-white/5 px-3 py-2.5">
-          <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-brand-orange text-xs font-bold text-navy-950">
-            {session?.user.uf ?? "NX"}
-          </div>
+          <StateFlag uf={admin ? null : session?.user.uf} fallback="NX" className="ring-white/25" />
           <div className="min-w-0 flex-1">
-            <p className="truncate text-sm font-semibold">{session?.user.name}</p>
+            <p className="line-clamp-2 text-sm font-semibold leading-tight" title={admin ? session?.user.name : unitName(session?.user.uf)}>
+              {admin ? session?.user.name : unitName(session?.user.uf)}
+            </p>
             <p className="truncate text-[11px] text-white/55">
-              {admin ? "Administrador Nexus" : `${session?.user.identity} · ${UF_LABELS[session?.user.uf ?? ""] ?? ""}`}
+              {admin ? "Administrador Nexus" : session?.user.identity}
             </p>
           </div>
           <button
@@ -145,11 +166,12 @@ export function Sidebar({
             <LogOut className="h-4 w-4" />
           </button>
         </div>
-        <div className="mt-4 flex items-center justify-center gap-2 text-[10px] uppercase tracking-widest text-white/35">
+        <div className="flex items-center justify-center gap-2 text-[10px] uppercase tracking-widest text-white/35">
           powered by
           <img src="/logo-nexus.png" alt="Nexus" className="h-3.5 w-auto opacity-80" />
         </div>
       </div>
+      {exporting && config && <ExportDialog config={config} sectionId={sectionId} onClose={() => setExporting(false)} />}
     </aside>
   )
 }

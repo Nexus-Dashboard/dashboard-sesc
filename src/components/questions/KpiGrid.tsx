@@ -10,7 +10,7 @@ import { TipRow, tipHandlers } from "../ui/Tooltip"
 
 // Números-herói: um cartão por indicador, com o valor de cada série.
 // Com duas ou mais séries, a última é comparada à primeira (p.p.).
-export function KpiGrid({ kpis, ds, series }: { kpis: Kpi[]; ds: Dataset; series: Series[] }) {
+export function KpiGrid({ kpis, ds, series, exportMode = false }: { kpis: Kpi[]; ds: Dataset; series: Series[]; exportMode?: boolean }) {
   const values = useMemo(
     () => kpis.map((kpi) => ({ kpi, results: series.map((item) => kpiValue(kpi, ds, item.mask)) })),
     [kpis, ds, series],
@@ -18,7 +18,7 @@ export function KpiGrid({ kpis, ds, series }: { kpis: Kpi[]; ds: Dataset; series
   const multi = series.length > 1
 
   return (
-    <div className="grid grid-cols-2 gap-3 md:grid-cols-4">
+    <div data-export-block="" className={clsx("grid gap-3", exportMode ? "grid-cols-4" : "grid-cols-2 md:grid-cols-4")}>
       {values.map(({ kpi, results }) => {
         const isScore = kpi.metric.kind === "mean"
         const format = isScore ? score : pct
@@ -60,7 +60,7 @@ export function KpiGrid({ kpis, ds, series }: { kpis: Kpi[]; ds: Dataset; series
                   </div>
                 ))}
                 {Number.isFinite(delta) && (
-                  <p className={clsx("pt-0.5 text-right text-[11px] font-semibold", delta >= 0 ? "text-emerald-700" : "text-orange-700")}>
+                  <p className={clsx("pt-0.5 text-right text-[11px] font-semibold", Math.round(delta * (isScore ? 1000 : 100)) === 0 ? "text-ink-3" : delta > 0 ? "text-emerald-700" : "text-orange-700")}>
                     {isScore ? `${delta >= 0 ? "+" : ""}${score(delta * 100)} pts` : points(delta)} vs. {series[0].short}
                   </p>
                 )}

@@ -14,10 +14,13 @@
     "@fontsource-variable/inter": "^5.1.0",
     "@tanstack/react-query": "^5.62.0",
     "clsx": "^2.1.1",
+    "html-to-image": "^1.11.13",
+    "jspdf": "^4.2.1",
     "lucide-react": "^0.468.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.28.0"
+    "react-router-dom": "^6.28.0",
+    "write-excel-file": "^4.1.1"
   },
   "devDependencies": {
     "@tailwindcss/container-queries": "^0.1.1",

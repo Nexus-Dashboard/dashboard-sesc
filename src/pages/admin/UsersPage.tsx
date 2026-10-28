@@ -22,6 +22,7 @@ import { REGION_LABELS, UFS, UF_LABELS, UF_TO_REGION, type RegionSlug } from "..
 import { useAuth } from "../../lib/auth/AuthContext"
 import { Button, Card, EmptyState, Segmented, Skeleton } from "../../components/ui/primitives"
 import { date, int } from "../../lib/format"
+import { unitName } from "../../lib/places"
 
 // Gestão de acessos (papel nexus_admin), sobre /api/clients/users.
 
@@ -213,7 +214,7 @@ export function UsersPage() {
                   <td className="px-4 py-3">
                     <p className="font-semibold text-ink">{user.identity}</p>
                     <p className="text-xs text-ink-3">
-                      {user.name}
+                      {user.role === "state_user" && user.uf ? unitName(user.uf, user.client) : user.name}
                       {user.role === "nexus_admin" && <span className="ml-1.5 rounded bg-navy-700 px-1.5 py-0.5 text-[10px] font-semibold text-white">admin</span>}
                     </p>
                   </td>
@@ -469,7 +470,7 @@ function UserForm({
   useEffect(() => {
     if (editing || !uf) return
     if (!loginTouched) setLogin(uf.toLowerCase())
-    setName(`${client.toUpperCase()} ${UF_LABELS[uf]}`)
+    setName(unitName(uf, client))
   }, [client, uf, editing, loginTouched])
 
   const loginValid = /^[a-z0-9][a-z0-9._-]{0,30}$/.test(login)

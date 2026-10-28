@@ -26,7 +26,7 @@ cp .env.example .env.local   # ajuste VITE_API_URL
 npm run dev                  # http://localhost:5173
 ```
 
-Enquanto a rota `/api/clients/surveys` não estiver publicada, rode a API local (`cd ../../api && npm run dev`) e aponte `VITE_API_URL` para ela.
+A rota `/api/clients/surveys` já está publicada em `https://api-nexus-dashboard.vercel.app`, que é o padrão. Para testar mudanças na API antes do deploy, rode-a localmente (`cd ../../api && npm run dev`) e aponte `VITE_API_URL` para ela.
 
 Em modo dev, a tela de troca de senha tem o botão "Pular (apenas dev)", para navegar sem gravar senha nas contas reais. Ele não existe no build de produção.
 

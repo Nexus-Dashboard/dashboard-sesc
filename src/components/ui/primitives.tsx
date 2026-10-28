@@ -1,9 +1,13 @@
 import clsx from "clsx"
 import { AlertTriangle, Loader2 } from "lucide-react"
-import type { ButtonHTMLAttributes, ReactNode } from "react"
+import type { ButtonHTMLAttributes, HTMLAttributes, ReactNode } from "react"
 
-export function Card({ className, children }: { className?: string; children: ReactNode }) {
-  return <section className={clsx("rounded-2xl border border-line bg-white shadow-card", className)}>{children}</section>
+export function Card({ className, children, ...rest }: HTMLAttributes<HTMLElement> & { className?: string; children: ReactNode }) {
+  return (
+    <section {...rest} className={clsx("rounded-2xl border border-line bg-white shadow-card", className)}>
+      {children}
+    </section>
+  )
 }
 
 interface SegmentedOption<T extends string | number> {

@@ -8,10 +8,9 @@ import { activeFilterChips, useAnalysis } from "../view/analysis"
 import { useView } from "../view/ViewContext"
 import { ScopeControls } from "../components/layout/ScopeControls"
 import { FilterDrawer } from "../components/layout/FilterDrawer"
-import { QuestionCard } from "../components/questions/QuestionCard"
-import { KpiGrid } from "../components/questions/KpiGrid"
+import { SectionBody } from "../components/questions/SectionBody"
 import { Button, Card, LowBase, Skeleton } from "../components/ui/primitives"
-import { date, int } from "../lib/format"
+import { int } from "../lib/format"
 
 export function SectionPage() {
   const { surveyId, sectionId } = useParams()
@@ -110,18 +109,7 @@ export function SectionPage() {
         ) : (
           analysis &&
           query.data && (
-            <div className="space-y-6">
-              {section.kpis && <KpiGrid kpis={section.kpis} ds={query.data} series={analysis.series} />}
-              <div className="grid grid-cols-1 gap-6 xl:grid-cols-2">
-                {section.questions.map((question) => (
-                  <QuestionCard key={question.id} question={question} config={config} ds={query.data} analysis={analysis} />
-                ))}
-              </div>
-              <p className="text-[11px] leading-relaxed text-ink-3">
-                {config.sampleNote}
-                {query.data.modifiedTime ? ` Base atualizada em ${date(query.data.modifiedTime)}.` : ""}
-              </p>
-            </div>
+            <SectionBody config={config} section={section} ds={query.data} analysis={analysis} />
           )
         )}
       </div>
